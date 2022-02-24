@@ -1,0 +1,18 @@
+{
+    "Geeks": [
+        {
+            "id": 1,
+            "suma": "num1 + num2",
+            "name": "Realizado el cálculo",
+            "url": "https://img.icons8.com/ios/50/000000/relax.png",
+            "Prueba": "pertenece a fibonacci"
+        },
+        {
+            "id": 2,
+            "suma": "num1 + num2",
+            "name": "Realizado el cálculo",
+            "url": "https://img.icons8.com/pastel-glyph/64/000000/coffin.png",
+            "Prueba": "no pertenece a fibonacci"
+        }
+    ]
+}
